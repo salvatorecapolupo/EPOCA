@@ -5,6 +5,11 @@
 
 *EPOCA Autopublisher* è un plugin WordPress che ripubblica automaticamente il post più vecchio (in base alla data di pubblicazione originale) ogni ora, con criteri personalizzabili tramite interfaccia di amministrazione.
 
+Anteprima
+
+
+![anteprima](./epoca-screen.png "epoca-screen")
+
 ---
 
 ## Caratteristiche principali
